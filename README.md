@@ -1,91 +1,24 @@
-<!-- ALCHEMISTDEV-007 -->
+# 💫 About Me:
+🔭 I’m currently working on — Sentinel AI, an AI-assisted vulnerability assessment & security exposure platform.<br>👯 I’m looking to collaborate on — Open-source cybersecurity, AI/ML, and interesting developer projects.<br>🤝 I’m looking for help with — Building scalable security tools and turning ambitious ideas into real products.<br>🌱 I’m currently learning — Cybersecurity, penetration testing, AI/ML, system design, and advanced Python.<br>💬 Ask me about — Linux, cybersecurity, Python, AI/ML, Warframe, or whatever I’m currently building.<br>⚡ Fun fact — I’m a CSE student who somehow manages to jump between cybersecurity, AI, web development, hardware, and gaming. 😭🔥
 
-<div align="center">
 
-```                     
-   ,_,   
-  (o,o)  
-  /)_)   
-   " "                 
-               
-```
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adithyagireesh007@gmail.com) 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=AA44FF&center=true&vCenter=true&width=500&lines=ALCHEMISTDEV-007;The+Art+Of+Hiding+In+Plain+Sight" alt="Typing SVG" />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ALCHEMISTDEV-007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ALCHEMISTDEV-007&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ALCHEMISTDEV-007&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-## `// About`
-
-```python
-alchemist = {
-    "degree"  : "B.Tech CSE · Cybersecurity Track · 3rd Year",
-    "cgpa"    : 7.9,
-    "focus"   : ["Offensive Security", "Python Automation", "AI Security"],
-    "labs"    : "30+ TryHackMe  |  20+ PortSwigger",
-    "fun_fact": "Linux feels more fun than games ever did"
-}
-```
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ALCHEMISTDEV-007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ALCHEMISTDEV-007&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## `// Tech Stack`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-AA44FF?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-6600CC?style=for-the-badge&logo=gnubash&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-6600CC?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-6600CC?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-6600CC?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-6600CC?style=for-the-badge&logo=nmap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2a1a3a?style=for-the-badge&logo=git&logoColor=AA44FF)
-![React](https://img.shields.io/badge/React-2a1a3a?style=for-the-badge&logo=react&logoColor=AA44FF)
-![PowerShell](https://img.shields.io/badge/PowerShell-2a1a3a?style=for-the-badge&logo=powershell&logoColor=AA44FF)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-2a1a3a?style=for-the-badge&logo=raspberrypi&logoColor=AA44FF)
-
-</div>
-
----
-
-## `// Projects`
-
-**[▸ Red Team Intel Orchestrator](https://github.com/ALCHEMISTDEV-007/RedTeam-Orchestrator)**
-> Automated OSINT + vulnerability correlation pipeline for targeted recon
-> 
-> ![Python](https://img.shields.io/badge/Python-2a1a3a?style=flat-square&logoColor=AA44FF) ![OSINT](https://img.shields.io/badge/OSINT-2a1a3a?style=flat-square) ![Red Team](https://img.shields.io/badge/Red_Team-6600CC?style=flat-square)
-
-**[▸ Home Router Pentest](https://github.com/ALCHEMISTDEV-007/wpa2-security-assessment)**
-> Authorized internal pentest — CVE-2022-45956 (Boa HTTPd), Telnet brute-force, CVSSv3 findings
->
-> ![Metasploit](https://img.shields.io/badge/Metasploit-2a1a3a?style=flat-square) ![Kali](https://img.shields.io/badge/Kali-2a1a3a?style=flat-square) ![CVSSv3](https://img.shields.io/badge/CVSSv3-6600CC?style=flat-square)
-
----
-
-## `// Certifications`
-
-![Google](https://img.shields.io/badge/[+]_Google_Cybersecurity_Certificate-AA44FF?style=flat-square&logoColor=white)
-![NPTEL](https://img.shields.io/badge/[+]_NPTEL_Python_Programming-6600CC?style=flat-square&logoColor=white)
-
----
-
-## `// GitHub Stats`
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALCHEMISTDEV-007&show_icons=true&bg_color=09080f&border_color=6600cc&title_color=aa44ff&icon_color=7722cc&text_color=c9b8e8&hide_border=false)](https://github.com/ALCHEMISTDEV-007)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALCHEMISTDEV-007&layout=compact&bg_color=09080f&border_color=6600cc&title_color=aa44ff&text_color=c9b8e8)](https://github.com/ALCHEMISTDEV-007)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ALCHEMISTDEV-007&theme=tokyonight&background=09080f&border=6600CC&ring=AA44FF&fire=CC44FF&currStreakLabel=AA44FF)](https://github.com/ALCHEMISTDEV-007)
-
-</div>
-
----
-
-<div align="center">
-
-`// currently learning · ethical hacking · linux internals · ai security`
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
